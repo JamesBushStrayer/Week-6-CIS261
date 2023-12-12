@@ -1,5 +1,6 @@
 # James Alan Bush (SU200619708)
-# CIS261 Week - 6 Invoice Line Item Calculator Application
+# CIS261
+# Week 6 - Invoice Line Item Calculator Application
 
 def get_price():
   while True:
